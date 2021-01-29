@@ -1,3 +1,7 @@
-*.tfstate*
-*.tfvars
-.terraform
+*.log
+*.bak
+*.exe
+*.tfstate
+*.tfstate.*
+*.terraform
+*.terraform.*
